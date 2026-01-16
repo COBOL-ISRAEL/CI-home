@@ -1,3 +1,4 @@
+---
 title: ללמוד JCL בכיף, האם זה אפשרי?
 description: פרק 2 - יסודות
 weight: 25

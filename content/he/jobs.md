@@ -30,7 +30,7 @@ jobs:
     contact_name: "ענבר סגל"
     contact_email: "inbar@accel.co.il"
     contact_linkedin: "linkedin.com/in/inbar-segal-recruiter"
-    contact_phone: "0507844114"
+
   - title: "מפתח COBOL"
     company: "קבוצת רזאל"
     date: "30/12/2025"

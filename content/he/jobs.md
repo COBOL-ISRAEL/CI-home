@@ -9,7 +9,7 @@ menu:
     identifier: jobs
     
 jobs:
-  - title: "דרוש/ה מנתח/ת מערכות Mainframe (3001)"
+  - title: "דרוש/ה מנתח/ת מערכות Mainframe"
     company: "HWDC"
     date: "19/05/2026"
     description: |
@@ -43,7 +43,7 @@ jobs:
     location: "ירושלים, היברידי"
     contact_email: "jobs@hwdc.org.il"
 
-  - title: "דרוש/ה ראש צוות Mainframe (3000)"
+  - title: "דרוש/ה ראש צוות Mainframe"
     company: "HWDC"
     date: "19/05/2026"
     description: |
@@ -73,7 +73,7 @@ jobs:
     location: "ירושלים, היברידי"
     contact_email: "jobs@hwdc.org.il"
 
-  - title: "דרוש/ה מפתחת Mainframe (3002)"
+  - title: "דרוש/ה מפתחת Mainframe"
     company: "HWDC"
     date: "19/05/2026"
     description: |

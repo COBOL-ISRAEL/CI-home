@@ -67,6 +67,13 @@
                   <a href="mailto:{{ . }}" class="small">{{ . }}</a>
                 </p>
                 {{ end }}
+                {{ with .contact_phone }}
+                <p class="mb-2">
+                  <i class="fas fa-phone text-muted"></i>
+                  <strong>טלפון:</strong><br>
+                  <a href="tel:{{ . }}" class="small">{{ . }}</a>
+                </p>
+                {{ end }}
                 {{ with .contact_linkedin }}
                 <p class="mb-3">
                   <i class="fab fa-linkedin text-muted"></i>

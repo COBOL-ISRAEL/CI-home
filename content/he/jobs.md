@@ -9,6 +9,20 @@ menu:
     identifier: jobs
     
 jobs:
+  - title: "מפתח/ת COBOL"
+    company: "UCL"
+    date: "18/06/2026"
+    description: |
+      מפתח/ת COBOL לצוות פיתוח בסביבת Mainframe.
+    requirements:
+      - "ניסיון של שנתיים ומעלה בפיתוח COBOL."
+    experience: "2+ שנים"
+    location: "מרכז, היברידי יום/יומיים מהבית"
+    contact_name: "יבגניה גדייב"
+    contact_email: "evgeniag@ucl-group.co.il"
+    contact_phone: "0547820993"
+    contact_linkedin: "https://www.linkedin.com/in/evgenia%E2%80%8F-gadaev-64028697/"
+
   - title: "דרוש/ה מנתח/ת מערכות Mainframe"
     company: "HWDC"
     date: "19/05/2026"
